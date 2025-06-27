@@ -35,3 +35,5 @@
 # 💻 Featured YouTube Videos
 [![Build a K-Drama AI Recommender with Python & Machine Learning](https://ytcards.demolab.com/?id=Dog927xBQjg&title=Build+a+K-Drama+AI+Recommender&lang=en&timestamp=1761600000&background_color=%fda8cf&title_color=%f2f3bd&stats_color=%ca377a&max_title_lines=1&width=250&border_radius=5&duration=440 "My Coding Journey")](https://youtu.be/Dog927xBQjg)
 
+[![Machine learning Python for beginners](https://ytcards.demolab.com/?id=PqJ8Bd7KHqM&title=Machine+learning+Python+for+beginners&lang=en&timestamp=PUT_UNIX_TIMESTAMP_HERE&background_color=%fda8cf&title_color=%f2f3bd&stats_color=%ca377a&max_title_lines=2&width=250&border_radius=5&duration=PUT_DURATION_IN_SECONDS_HERE "Machine learning Python for beginners")](https://youtu.be/PqJ8Bd7KHqM)
+
