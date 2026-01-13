@@ -1,9 +1,10 @@
-## Sandibell Vega | Robotics Engineer • AI Engineer • Latina in Tech
+## Sandibell Vega 
+### Robotics Engineer | AI Engineer | Software Engineering | STEM Instructor
 
 # Hello, I'm Sandibell Vega
-👩‍💻 AI & Robotics Engineer sharing my coding projects and innovative, creative journey in tech<br/>
-👩‍🎓Earned dual B.S. degrees in Artificial Intelligence & Robotics and Embedded Systems (University of Advancing Technology)<br/>
-🎥 Creating tutorials on coding, AI, and tech creativity on [YouTube – AI Bell Vega](https://www.youtube.com/@aibellvega)<br/>
+**AI & Robotics Engineer** with hands-on experience designing and building real-world projects across **machine learning, robotics, embedded systems, and full-stack software development**. Strong background in translating complex technical concepts into functional systems and clear documentation. Holds dual Bachelor of Science degrees in **Artificial Intelligence & Robotics and Embedded Systems** from the University of Advancing Technology.<br/>
+
+🎥 Creating tutorials on coding, AI, and tech creativity on **[YouTube – AI Bell Vega]**(https://www.youtube.com/@aibellvega)<br/>
 <img src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8">
 
 ## 🌐 Socials:
@@ -16,7 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 💰 You can help me by Donating
+## 💰 Support My Work
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AIBellVega?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aibellvega) 
 
 
